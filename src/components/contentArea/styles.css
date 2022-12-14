@@ -1,0 +1,29 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 90%;
+}
+
+.inputArea {
+    height: 100%;
+    padding: 0.8rem;
+    box-sizing: border-box;
+}
+
+.previewArea {
+    height: 100%;
+    padding: 0.8rem;
+    box-sizing: border-box;
+}
+
+.inputArea_header {
+    height: 4%;
+    margin: 0;
+    padding: 0;
+}
+
+.previewArea_header {
+    height: 4%;
+    margin: 0;
+    padding: 0;
+}
