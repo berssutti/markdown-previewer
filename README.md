@@ -7,7 +7,7 @@ Made this project aiming to improve my skills with react, feel free to contribut
 This is a simple app with just one page, where you will find the editor to write yout markdown and the preview section of the HTML of the
 corresponding markdown.
 
-## technologies
+## Technologies
 
 * javaScript
 * CSS
